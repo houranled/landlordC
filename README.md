@@ -1,5 +1,5 @@
 # landlordC
-实现斗地主核心算法逻辑。可通过控制台字符界面进行操作。
+实现斗地主核心算法逻辑。可通过控制台字符界面进行操作。仅使用原生C库， 所以在Windows、Linux上都可以编译运行！
 
 ![image](https://github.com/user-attachments/assets/ad273aa0-01ae-4e7d-9c45-fbd3399dfc95)
 
